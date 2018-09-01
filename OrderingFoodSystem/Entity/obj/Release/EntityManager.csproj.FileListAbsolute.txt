@@ -1,0 +1,34 @@
+D:\Code\Person kpi System\KpiSystem\Entity\bin\Release\Entity.dll
+D:\Code\Person kpi System\KpiSystem\Entity\bin\Release\Entity.pdb
+D:\Code\Person kpi System\KpiSystem\Entity\bin\Release\Dos.ORM.dll
+D:\Code\Person kpi System\KpiSystem\Entity\bin\Release\Dos.ORM.xml
+D:\Code\Person kpi System\KpiSystem\Entity\obj\Release\EntityManager.csprojResolveAssemblyReference.cache
+D:\Code\Person kpi System\KpiSystem\Entity\obj\Release\Entity.dll
+D:\Code\Person kpi System\KpiSystem\Entity\obj\Release\Entity.pdb
+D:\Person kpi System\KpiSystem\Entity\bin\Release\Entity.dll
+D:\Person kpi System\KpiSystem\Entity\bin\Release\Entity.pdb
+D:\Person kpi System\KpiSystem\Entity\bin\Release\Dos.ORM.xml
+D:\Person kpi System\KpiSystem\Entity\obj\Release\EntityManager.csprojResolveAssemblyReference.cache
+D:\Person kpi System\KpiSystem\Entity\obj\Release\Entity.dll
+D:\Person kpi System\KpiSystem\Entity\obj\Release\Entity.pdb
+E:\KpiSystem\Entity\bin\Release\Entity.dll
+E:\KpiSystem\Entity\bin\Release\Entity.pdb
+E:\KpiSystem\Entity\bin\Release\Dos.ORM.dll
+E:\KpiSystem\Entity\bin\Release\Dos.ORM.xml
+E:\KpiSystem\Entity\obj\Release\EntityManager.csprojResolveAssemblyReference.cache
+E:\KpiSystem\Entity\obj\Release\Entity.dll
+E:\KpiSystem\Entity\obj\Release\Entity.pdb
+E:\DicomViewWeb\Entity\bin\Release\Entity.dll
+E:\DicomViewWeb\Entity\bin\Release\Entity.pdb
+E:\DicomViewWeb\Entity\bin\Release\Dos.ORM.dll
+E:\DicomViewWeb\Entity\bin\Release\Dos.ORM.xml
+E:\DicomViewWeb\Entity\obj\Release\EntityManager.csprojResolveAssemblyReference.cache
+E:\DicomViewWeb\Entity\obj\Release\Entity.dll
+E:\DicomViewWeb\Entity\obj\Release\Entity.pdb
+E:\app\app\OrderingFoodSystem\Entity\bin\Release\Entity.dll
+E:\app\app\OrderingFoodSystem\Entity\bin\Release\Entity.pdb
+E:\app\app\OrderingFoodSystem\Entity\bin\Release\Dos.ORM.dll
+E:\app\app\OrderingFoodSystem\Entity\bin\Release\Dos.ORM.xml
+E:\app\app\OrderingFoodSystem\Entity\obj\Release\EntityManager.csprojResolveAssemblyReference.cache
+E:\app\app\OrderingFoodSystem\Entity\obj\Release\Entity.dll
+E:\app\app\OrderingFoodSystem\Entity\obj\Release\Entity.pdb

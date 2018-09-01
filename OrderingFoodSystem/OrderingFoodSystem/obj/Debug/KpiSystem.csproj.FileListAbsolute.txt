@@ -1,0 +1,293 @@
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\roslyn\csc.exe
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\roslyn\System.Collections.Immutable.dll
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\roslyn\System.Reflection.Metadata.dll
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\roslyn\vbc.exe
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\roslyn\VBCSCompiler.exe
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\roslyn\VBCSCompiler.exe.config
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\KpiSystem.dll.config
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\KpiSystem.dll
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\KpiSystem.pdb
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\Antlr3.Runtime.dll
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\DataManager.dll
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\Dos.ORM.dll
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\Entity.dll
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\EntityFramework.dll
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\EntityFramework.SqlServer.dll
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\Microsoft.Owin.dll
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\Microsoft.Owin.Security.dll
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\Microsoft.Owin.Security.Google.dll
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\Microsoft.Web.Infrastructure.dll
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\Newtonsoft.Json.dll
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\Owin.dll
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\System.Web.Helpers.dll
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\System.Web.Mvc.dll
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\System.Web.Optimization.dll
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\System.Web.Razor.dll
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\System.Web.WebPages.Deployment.dll
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\System.Web.WebPages.dll
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\System.Web.WebPages.Razor.dll
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\WebGrease.dll
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\Common.dll
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\DataManager.pdb
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\Entity.pdb
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\Dos.ORM.xml
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\System.Web.Helpers.xml
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\System.Web.Mvc.xml
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\System.Web.Optimization.xml
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\System.Web.Razor.xml
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\System.Web.WebPages.xml
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\System.Web.WebPages.Deployment.xml
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\System.Web.WebPages.Razor.xml
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\Antlr3.Runtime.pdb
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\Newtonsoft.Json.xml
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\EntityFramework.xml
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\EntityFramework.SqlServer.xml
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\Microsoft.Owin.xml
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\Microsoft.Owin.Security.xml
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\Microsoft.Owin.Security.Google.xml
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\Common.pdb
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\zh-Hans\System.Web.Helpers.resources.dll
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\zh-Hans\System.Web.Optimization.resources.dll
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\zh-Hans\System.Web.WebPages.resources.dll
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\zh-Hans\EntityFramework.resources.dll
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\zh-Hans\Microsoft.Owin.resources.dll
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\Code\Person kpi System\KpiSystem\KpiSystem\obj\Debug\KpiSystem.csprojResolveAssemblyReference.cache
+D:\Code\Person kpi System\KpiSystem\KpiSystem\obj\Debug\KpiSystem.dll
+D:\Code\Person kpi System\KpiSystem\KpiSystem\obj\Debug\KpiSystem.pdb
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\EPPlus.dll
+D:\Code\Person kpi System\KpiSystem\KpiSystem\bin\EPPlus.xml
+D:\Person kpi System\KpiSystem\KpiSystem\bin\roslyn\csc.exe
+D:\Person kpi System\KpiSystem\KpiSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Person kpi System\KpiSystem\KpiSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Person kpi System\KpiSystem\KpiSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Person kpi System\KpiSystem\KpiSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Person kpi System\KpiSystem\KpiSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Person kpi System\KpiSystem\KpiSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Person kpi System\KpiSystem\KpiSystem\bin\roslyn\System.Collections.Immutable.dll
+D:\Person kpi System\KpiSystem\KpiSystem\bin\roslyn\System.Reflection.Metadata.dll
+D:\Person kpi System\KpiSystem\KpiSystem\bin\roslyn\vbc.exe
+D:\Person kpi System\KpiSystem\KpiSystem\bin\roslyn\VBCSCompiler.exe
+D:\Person kpi System\KpiSystem\KpiSystem\bin\roslyn\VBCSCompiler.exe.config
+D:\Person kpi System\KpiSystem\KpiSystem\bin\KpiSystem.dll.config
+D:\Person kpi System\KpiSystem\KpiSystem\bin\KpiSystem.dll
+D:\Person kpi System\KpiSystem\KpiSystem\bin\KpiSystem.pdb
+D:\Person kpi System\KpiSystem\KpiSystem\bin\Antlr3.Runtime.dll
+D:\Person kpi System\KpiSystem\KpiSystem\bin\Common.dll
+D:\Person kpi System\KpiSystem\KpiSystem\bin\DataManager.dll
+D:\Person kpi System\KpiSystem\KpiSystem\bin\Entity.dll
+D:\Person kpi System\KpiSystem\KpiSystem\bin\EntityFramework.dll
+D:\Person kpi System\KpiSystem\KpiSystem\bin\EntityFramework.SqlServer.dll
+D:\Person kpi System\KpiSystem\KpiSystem\bin\EPPlus.dll
+D:\Person kpi System\KpiSystem\KpiSystem\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Person kpi System\KpiSystem\KpiSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Person kpi System\KpiSystem\KpiSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Person kpi System\KpiSystem\KpiSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Person kpi System\KpiSystem\KpiSystem\bin\Microsoft.Owin.dll
+D:\Person kpi System\KpiSystem\KpiSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Person kpi System\KpiSystem\KpiSystem\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Person kpi System\KpiSystem\KpiSystem\bin\Microsoft.Owin.Security.dll
+D:\Person kpi System\KpiSystem\KpiSystem\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Person kpi System\KpiSystem\KpiSystem\bin\Microsoft.Owin.Security.Google.dll
+D:\Person kpi System\KpiSystem\KpiSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Person kpi System\KpiSystem\KpiSystem\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Person kpi System\KpiSystem\KpiSystem\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Person kpi System\KpiSystem\KpiSystem\bin\Microsoft.Web.Infrastructure.dll
+D:\Person kpi System\KpiSystem\KpiSystem\bin\Newtonsoft.Json.dll
+D:\Person kpi System\KpiSystem\KpiSystem\bin\Owin.dll
+D:\Person kpi System\KpiSystem\KpiSystem\bin\System.Web.Helpers.dll
+D:\Person kpi System\KpiSystem\KpiSystem\bin\System.Web.Mvc.dll
+D:\Person kpi System\KpiSystem\KpiSystem\bin\System.Web.Optimization.dll
+D:\Person kpi System\KpiSystem\KpiSystem\bin\System.Web.Razor.dll
+D:\Person kpi System\KpiSystem\KpiSystem\bin\System.Web.WebPages.Deployment.dll
+D:\Person kpi System\KpiSystem\KpiSystem\bin\System.Web.WebPages.dll
+D:\Person kpi System\KpiSystem\KpiSystem\bin\System.Web.WebPages.Razor.dll
+D:\Person kpi System\KpiSystem\KpiSystem\bin\WebGrease.dll
+D:\Person kpi System\KpiSystem\KpiSystem\bin\Common.pdb
+D:\Person kpi System\KpiSystem\KpiSystem\bin\DataManager.pdb
+D:\Person kpi System\KpiSystem\KpiSystem\bin\Entity.pdb
+D:\Person kpi System\KpiSystem\KpiSystem\bin\Dos.ORM.xml
+D:\Person kpi System\KpiSystem\KpiSystem\bin\EPPlus.xml
+D:\Person kpi System\KpiSystem\KpiSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Person kpi System\KpiSystem\KpiSystem\bin\System.Web.Helpers.xml
+D:\Person kpi System\KpiSystem\KpiSystem\bin\System.Web.Mvc.xml
+D:\Person kpi System\KpiSystem\KpiSystem\bin\System.Web.Optimization.xml
+D:\Person kpi System\KpiSystem\KpiSystem\bin\System.Web.Razor.xml
+D:\Person kpi System\KpiSystem\KpiSystem\bin\System.Web.WebPages.xml
+D:\Person kpi System\KpiSystem\KpiSystem\bin\System.Web.WebPages.Deployment.xml
+D:\Person kpi System\KpiSystem\KpiSystem\bin\System.Web.WebPages.Razor.xml
+D:\Person kpi System\KpiSystem\KpiSystem\bin\Antlr3.Runtime.pdb
+D:\Person kpi System\KpiSystem\KpiSystem\bin\Newtonsoft.Json.xml
+D:\Person kpi System\KpiSystem\KpiSystem\bin\EntityFramework.xml
+D:\Person kpi System\KpiSystem\KpiSystem\bin\EntityFramework.SqlServer.xml
+D:\Person kpi System\KpiSystem\KpiSystem\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Person kpi System\KpiSystem\KpiSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Person kpi System\KpiSystem\KpiSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Person kpi System\KpiSystem\KpiSystem\bin\Microsoft.Owin.xml
+D:\Person kpi System\KpiSystem\KpiSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Person kpi System\KpiSystem\KpiSystem\bin\Microsoft.Owin.Security.xml
+D:\Person kpi System\KpiSystem\KpiSystem\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Person kpi System\KpiSystem\KpiSystem\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Person kpi System\KpiSystem\KpiSystem\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Person kpi System\KpiSystem\KpiSystem\bin\Microsoft.Owin.Security.Google.xml
+D:\Person kpi System\KpiSystem\KpiSystem\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Person kpi System\KpiSystem\KpiSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Person kpi System\KpiSystem\KpiSystem\bin\zh-Hans\System.Web.Helpers.resources.dll
+D:\Person kpi System\KpiSystem\KpiSystem\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\Person kpi System\KpiSystem\KpiSystem\bin\zh-Hans\System.Web.Optimization.resources.dll
+D:\Person kpi System\KpiSystem\KpiSystem\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\Person kpi System\KpiSystem\KpiSystem\bin\zh-Hans\System.Web.WebPages.resources.dll
+D:\Person kpi System\KpiSystem\KpiSystem\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\Person kpi System\KpiSystem\KpiSystem\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+D:\Person kpi System\KpiSystem\KpiSystem\bin\zh-Hans\EntityFramework.resources.dll
+D:\Person kpi System\KpiSystem\KpiSystem\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\Person kpi System\KpiSystem\KpiSystem\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Person kpi System\KpiSystem\KpiSystem\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Person kpi System\KpiSystem\KpiSystem\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Person kpi System\KpiSystem\KpiSystem\bin\zh-Hans\Microsoft.Owin.resources.dll
+D:\Person kpi System\KpiSystem\KpiSystem\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\Person kpi System\KpiSystem\KpiSystem\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+D:\Person kpi System\KpiSystem\KpiSystem\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+D:\Person kpi System\KpiSystem\KpiSystem\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+D:\Person kpi System\KpiSystem\KpiSystem\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+D:\Person kpi System\KpiSystem\KpiSystem\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\Person kpi System\KpiSystem\KpiSystem\obj\Debug\KpiSystem.csprojResolveAssemblyReference.cache
+D:\Person kpi System\KpiSystem\KpiSystem\obj\Debug\KpiSystem.dll
+D:\Person kpi System\KpiSystem\KpiSystem\obj\Debug\KpiSystem.pdb
+E:\KpiSystem\KpiSystem\bin\roslyn\csc.exe
+E:\KpiSystem\KpiSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\KpiSystem\KpiSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\KpiSystem\KpiSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\KpiSystem\KpiSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\KpiSystem\KpiSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\KpiSystem\KpiSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\KpiSystem\KpiSystem\bin\roslyn\System.Collections.Immutable.dll
+E:\KpiSystem\KpiSystem\bin\roslyn\System.Reflection.Metadata.dll
+E:\KpiSystem\KpiSystem\bin\roslyn\vbc.exe
+E:\KpiSystem\KpiSystem\bin\roslyn\VBCSCompiler.exe
+E:\KpiSystem\KpiSystem\bin\roslyn\VBCSCompiler.exe.config
+E:\KpiSystem\KpiSystem\bin\KpiSystem.dll.config
+E:\KpiSystem\KpiSystem\bin\KpiSystem.dll
+E:\KpiSystem\KpiSystem\bin\KpiSystem.pdb
+E:\KpiSystem\KpiSystem\bin\Antlr3.Runtime.dll
+E:\KpiSystem\KpiSystem\bin\Common.dll
+E:\KpiSystem\KpiSystem\bin\DataManager.dll
+E:\KpiSystem\KpiSystem\bin\Dos.ORM.dll
+E:\KpiSystem\KpiSystem\bin\Entity.dll
+E:\KpiSystem\KpiSystem\bin\EntityFramework.dll
+E:\KpiSystem\KpiSystem\bin\EntityFramework.SqlServer.dll
+E:\KpiSystem\KpiSystem\bin\EPPlus.dll
+E:\KpiSystem\KpiSystem\bin\Microsoft.AspNet.Identity.Core.dll
+E:\KpiSystem\KpiSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\KpiSystem\KpiSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\KpiSystem\KpiSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\KpiSystem\KpiSystem\bin\Microsoft.Owin.dll
+E:\KpiSystem\KpiSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\KpiSystem\KpiSystem\bin\Microsoft.Owin.Security.Cookies.dll
+E:\KpiSystem\KpiSystem\bin\Microsoft.Owin.Security.dll
+E:\KpiSystem\KpiSystem\bin\Microsoft.Owin.Security.Facebook.dll
+E:\KpiSystem\KpiSystem\bin\Microsoft.Owin.Security.Google.dll
+E:\KpiSystem\KpiSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\KpiSystem\KpiSystem\bin\Microsoft.Owin.Security.OAuth.dll
+E:\KpiSystem\KpiSystem\bin\Microsoft.Owin.Security.Twitter.dll
+E:\KpiSystem\KpiSystem\bin\Microsoft.Web.Infrastructure.dll
+E:\KpiSystem\KpiSystem\bin\Newtonsoft.Json.dll
+E:\KpiSystem\KpiSystem\bin\Owin.dll
+E:\KpiSystem\KpiSystem\bin\System.Web.Helpers.dll
+E:\KpiSystem\KpiSystem\bin\System.Web.Mvc.dll
+E:\KpiSystem\KpiSystem\bin\System.Web.Optimization.dll
+E:\KpiSystem\KpiSystem\bin\System.Web.Razor.dll
+E:\KpiSystem\KpiSystem\bin\System.Web.WebPages.Deployment.dll
+E:\KpiSystem\KpiSystem\bin\System.Web.WebPages.dll
+E:\KpiSystem\KpiSystem\bin\System.Web.WebPages.Razor.dll
+E:\KpiSystem\KpiSystem\bin\WebGrease.dll
+E:\KpiSystem\KpiSystem\bin\Common.pdb
+E:\KpiSystem\KpiSystem\bin\DataManager.pdb
+E:\KpiSystem\KpiSystem\bin\Entity.pdb
+E:\KpiSystem\KpiSystem\bin\Dos.ORM.xml
+E:\KpiSystem\KpiSystem\bin\EPPlus.xml
+E:\KpiSystem\KpiSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\KpiSystem\KpiSystem\bin\System.Web.Helpers.xml
+E:\KpiSystem\KpiSystem\bin\System.Web.Mvc.xml
+E:\KpiSystem\KpiSystem\bin\System.Web.Optimization.xml
+E:\KpiSystem\KpiSystem\bin\System.Web.Razor.xml
+E:\KpiSystem\KpiSystem\bin\System.Web.WebPages.xml
+E:\KpiSystem\KpiSystem\bin\System.Web.WebPages.Deployment.xml
+E:\KpiSystem\KpiSystem\bin\System.Web.WebPages.Razor.xml
+E:\KpiSystem\KpiSystem\bin\Antlr3.Runtime.pdb
+E:\KpiSystem\KpiSystem\bin\Newtonsoft.Json.xml
+E:\KpiSystem\KpiSystem\bin\EntityFramework.xml
+E:\KpiSystem\KpiSystem\bin\EntityFramework.SqlServer.xml
+E:\KpiSystem\KpiSystem\bin\Microsoft.AspNet.Identity.Core.xml
+E:\KpiSystem\KpiSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\KpiSystem\KpiSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\KpiSystem\KpiSystem\bin\Microsoft.Owin.xml
+E:\KpiSystem\KpiSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\KpiSystem\KpiSystem\bin\Microsoft.Owin.Security.xml
+E:\KpiSystem\KpiSystem\bin\Microsoft.Owin.Security.Facebook.xml
+E:\KpiSystem\KpiSystem\bin\Microsoft.Owin.Security.Cookies.xml
+E:\KpiSystem\KpiSystem\bin\Microsoft.Owin.Security.OAuth.xml
+E:\KpiSystem\KpiSystem\bin\Microsoft.Owin.Security.Google.xml
+E:\KpiSystem\KpiSystem\bin\Microsoft.Owin.Security.Twitter.xml
+E:\KpiSystem\KpiSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\KpiSystem\KpiSystem\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\KpiSystem\KpiSystem\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\KpiSystem\KpiSystem\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\KpiSystem\KpiSystem\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\KpiSystem\KpiSystem\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\KpiSystem\KpiSystem\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\KpiSystem\KpiSystem\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\KpiSystem\KpiSystem\bin\zh-Hans\EntityFramework.resources.dll
+E:\KpiSystem\KpiSystem\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\KpiSystem\KpiSystem\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+E:\KpiSystem\KpiSystem\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\KpiSystem\KpiSystem\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\KpiSystem\KpiSystem\bin\zh-Hans\Microsoft.Owin.resources.dll
+E:\KpiSystem\KpiSystem\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\KpiSystem\KpiSystem\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+E:\KpiSystem\KpiSystem\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+E:\KpiSystem\KpiSystem\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+E:\KpiSystem\KpiSystem\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+E:\KpiSystem\KpiSystem\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\KpiSystem\KpiSystem\obj\Debug\KpiSystem.csprojResolveAssemblyReference.cache
+E:\KpiSystem\KpiSystem\obj\Debug\KpiSystem.dll
+E:\KpiSystem\KpiSystem\obj\Debug\KpiSystem.pdb

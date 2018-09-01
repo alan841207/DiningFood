@@ -1,0 +1,56 @@
+D:\Code\Person kpi System\KpiSystem\Common\bin\Debug\Common.dll
+D:\Code\Person kpi System\KpiSystem\Common\bin\Debug\Common.pdb
+D:\Code\Person kpi System\KpiSystem\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\Code\Person kpi System\KpiSystem\Common\obj\Debug\Common.dll
+D:\Code\Person kpi System\KpiSystem\Common\obj\Debug\Common.pdb
+D:\Code\Person kpi System\KpiSystem\Common\bin\Debug\EPPlus.dll
+D:\Code\Person kpi System\KpiSystem\Common\bin\Debug\EPPlus.xml
+D:\Person kpi System\KpiSystem\Common\bin\Debug\Common.dll
+D:\Person kpi System\KpiSystem\Common\bin\Debug\Common.pdb
+D:\Person kpi System\KpiSystem\Common\bin\Debug\EPPlus.dll
+D:\Person kpi System\KpiSystem\Common\bin\Debug\EPPlus.xml
+D:\Person kpi System\KpiSystem\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\Person kpi System\KpiSystem\Common\obj\Debug\Common.dll
+D:\Person kpi System\KpiSystem\Common\obj\Debug\Common.pdb
+E:\KpiSystem\Common\bin\Debug\Common.dll
+E:\KpiSystem\Common\bin\Debug\Common.pdb
+E:\KpiSystem\Common\bin\Debug\EPPlus.dll
+E:\KpiSystem\Common\bin\Debug\EPPlus.xml
+E:\KpiSystem\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+E:\KpiSystem\Common\obj\Debug\Common.dll
+E:\KpiSystem\Common\obj\Debug\Common.pdb
+E:\DicomViewWeb\Common\bin\Debug\Common.dll
+E:\DicomViewWeb\Common\bin\Debug\Common.pdb
+E:\DicomViewWeb\Common\bin\Debug\EPPlus.dll
+E:\DicomViewWeb\Common\bin\Debug\EPPlus.xml
+E:\DicomViewWeb\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+E:\DicomViewWeb\Common\obj\Debug\Common.dll
+E:\DicomViewWeb\Common\obj\Debug\Common.pdb
+E:\OrderingFoodSystem\OrderingFoodSystem\Common\bin\Debug\Common.dll
+E:\OrderingFoodSystem\OrderingFoodSystem\Common\bin\Debug\Common.pdb
+E:\OrderingFoodSystem\OrderingFoodSystem\Common\bin\Debug\EPPlus.dll
+E:\OrderingFoodSystem\OrderingFoodSystem\Common\bin\Debug\EPPlus.xml
+E:\OrderingFoodSystem\OrderingFoodSystem\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+E:\OrderingFoodSystem\OrderingFoodSystem\Common\obj\Debug\Common.dll
+E:\OrderingFoodSystem\OrderingFoodSystem\Common\obj\Debug\Common.pdb
+C:\Users\Administrator\Desktop\OrderingFoodSystem\OrderingFoodSystem\OrderingFoodSystem\Common\bin\Debug\Common.dll
+C:\Users\Administrator\Desktop\OrderingFoodSystem\OrderingFoodSystem\OrderingFoodSystem\Common\bin\Debug\Common.pdb
+C:\Users\Administrator\Desktop\OrderingFoodSystem\OrderingFoodSystem\OrderingFoodSystem\Common\bin\Debug\EPPlus.dll
+C:\Users\Administrator\Desktop\OrderingFoodSystem\OrderingFoodSystem\OrderingFoodSystem\Common\bin\Debug\EPPlus.xml
+C:\Users\Administrator\Desktop\OrderingFoodSystem\OrderingFoodSystem\OrderingFoodSystem\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\OrderingFoodSystem\OrderingFoodSystem\OrderingFoodSystem\Common\obj\Debug\Common.dll
+C:\Users\Administrator\Desktop\OrderingFoodSystem\OrderingFoodSystem\OrderingFoodSystem\Common\obj\Debug\Common.pdb
+C:\Users\Administrator\Desktop\OrderingFoodSystem\Common\bin\Debug\Common.dll
+C:\Users\Administrator\Desktop\OrderingFoodSystem\Common\bin\Debug\Common.pdb
+C:\Users\Administrator\Desktop\OrderingFoodSystem\Common\bin\Debug\EPPlus.dll
+C:\Users\Administrator\Desktop\OrderingFoodSystem\Common\bin\Debug\EPPlus.xml
+C:\Users\Administrator\Desktop\OrderingFoodSystem\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\OrderingFoodSystem\Common\obj\Debug\Common.dll
+C:\Users\Administrator\Desktop\OrderingFoodSystem\Common\obj\Debug\Common.pdb
+E:\app\app\OrderingFoodSystem\Common\bin\Debug\Common.dll
+E:\app\app\OrderingFoodSystem\Common\bin\Debug\Common.pdb
+E:\app\app\OrderingFoodSystem\Common\bin\Debug\EPPlus.dll
+E:\app\app\OrderingFoodSystem\Common\bin\Debug\EPPlus.xml
+E:\app\app\OrderingFoodSystem\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+E:\app\app\OrderingFoodSystem\Common\obj\Debug\Common.dll
+E:\app\app\OrderingFoodSystem\Common\obj\Debug\Common.pdb

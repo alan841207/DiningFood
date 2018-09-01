@@ -1,0 +1,35 @@
+D:\Code\Person kpi System\KpiSystem\Common\bin\Release\Common.dll
+D:\Code\Person kpi System\KpiSystem\Common\bin\Release\Common.pdb
+D:\Code\Person kpi System\KpiSystem\Common\obj\Release\Common.csprojResolveAssemblyReference.cache
+D:\Code\Person kpi System\KpiSystem\Common\obj\Release\Common.dll
+D:\Code\Person kpi System\KpiSystem\Common\obj\Release\Common.pdb
+D:\Code\Person kpi System\KpiSystem\Common\bin\Release\EPPlus.dll
+D:\Code\Person kpi System\KpiSystem\Common\bin\Release\EPPlus.xml
+D:\Person kpi System\KpiSystem\Common\bin\Release\Common.dll
+D:\Person kpi System\KpiSystem\Common\bin\Release\Common.pdb
+D:\Person kpi System\KpiSystem\Common\bin\Release\EPPlus.dll
+D:\Person kpi System\KpiSystem\Common\bin\Release\EPPlus.xml
+D:\Person kpi System\KpiSystem\Common\obj\Release\Common.csprojResolveAssemblyReference.cache
+D:\Person kpi System\KpiSystem\Common\obj\Release\Common.dll
+D:\Person kpi System\KpiSystem\Common\obj\Release\Common.pdb
+E:\KpiSystem\Common\bin\Release\Common.dll
+E:\KpiSystem\Common\bin\Release\Common.pdb
+E:\KpiSystem\Common\bin\Release\EPPlus.dll
+E:\KpiSystem\Common\bin\Release\EPPlus.xml
+E:\KpiSystem\Common\obj\Release\Common.csprojResolveAssemblyReference.cache
+E:\KpiSystem\Common\obj\Release\Common.dll
+E:\KpiSystem\Common\obj\Release\Common.pdb
+E:\DicomViewWeb\Common\bin\Release\Common.dll
+E:\DicomViewWeb\Common\bin\Release\Common.pdb
+E:\DicomViewWeb\Common\bin\Release\EPPlus.dll
+E:\DicomViewWeb\Common\bin\Release\EPPlus.xml
+E:\DicomViewWeb\Common\obj\Release\Common.csprojResolveAssemblyReference.cache
+E:\DicomViewWeb\Common\obj\Release\Common.dll
+E:\DicomViewWeb\Common\obj\Release\Common.pdb
+E:\app\app\OrderingFoodSystem\Common\bin\Release\Common.dll
+E:\app\app\OrderingFoodSystem\Common\bin\Release\Common.pdb
+E:\app\app\OrderingFoodSystem\Common\bin\Release\EPPlus.dll
+E:\app\app\OrderingFoodSystem\Common\bin\Release\EPPlus.xml
+E:\app\app\OrderingFoodSystem\Common\obj\Release\Common.csprojResolveAssemblyReference.cache
+E:\app\app\OrderingFoodSystem\Common\obj\Release\Common.dll
+E:\app\app\OrderingFoodSystem\Common\obj\Release\Common.pdb

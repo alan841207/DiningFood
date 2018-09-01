@@ -1,0 +1,146 @@
+﻿@model IEnumerable<EntityManager.DiningDishName>
+
+<style>
+    body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, button, textarea, p, blockquote, th, td {
+        margin: 0;
+        padding: 0;
+    }
+
+    .box {
+        /*width: 1190px;*/
+        width: 1410px;
+        margin: 0 auto;
+        padding-top: 50px;
+        height: 300px;
+    }
+
+    .border_animation {
+        border: 1px solid #eee;
+        width: 220px;
+        height: 260px;
+        float: left;
+        margin-right: 10px;
+        position: relative;
+        margin-bottom: 150px;
+    }
+
+        .border_animation .border_top {
+            position: absolute;
+            height: 1px;
+            width: 0;
+            font-size: 0;
+            background: #666666;
+            top: 0;
+            left: 0;
+            transition: all 0.5s ease-out;
+        }
+
+        .border_animation .border_right {
+            position: absolute;
+            height: 0px;
+            width: 1px;
+            font-size: 0;
+            background: #666666;
+            bottom: 0;
+            right: 0;
+            transition: all 0.5s ease-out;
+        }
+
+        .border_animation .border_bottom {
+            position: absolute;
+            height: 1px;
+            width: 0px;
+            font-size: 0;
+            background: #666666;
+            right: 0;
+            bottom: 0;
+            transition: all 0.5s ease-out;
+        }
+
+        .border_animation .border_left {
+            position: absolute;
+            height: 0px;
+            width: 1px;
+            font-size: 0;
+            background: #666666;
+            left: 0;
+            top: 0;
+            transition: all 0.5s ease-out;
+        }
+
+    .eva-switchable-panels img {
+        display: block;
+    }
+
+    .box .hover .border_top, .box .hover .border_bottom {
+        width: 220px;
+    }
+
+    .box .hover .border_left, .box .hover .border_right {
+        height: 260px;
+    }
+
+    .productInfo {
+        font-family: 'Microsoft YaHei','Lantinghei SC','Open Sans',Arial,'Hiragino Sans GB','STHeiti','WenQuanYi Micro Hei','SimSun',sans-serif;
+        color: #00b09b;
+        background-color: #eff7e8;
+    }
+
+</style>
+
+
+<div style="text-align:right;margin-top:50px;margin-right:50px;margin-bottom:30px">
+    <button class="layui-btn">@Html.ActionLink("菜名创建", "Create")<span class="layui-badge layui-bg-gray">New</span></button>
+</div>
+
+<fieldset class="layui-elem-field site-demo-button" style="margin-top: 30px;">
+    <legend>菜品名称主题</legend>
+
+    <div class="box">
+        @foreach (var item in Model)
+        {
+            string str = string.Empty;
+            string des = string.Empty;
+            str = "../DishesImg/" + item.Img;
+            string editID = "/DishName/Edit/" + item.ID.ToString();
+            string delID = "/DishName/Delete/" + item.ID.ToString();
+            if (string.IsNullOrEmpty(item.Description))
+            {
+                item.Description = "暂无!!";
+            }
+            if (item.Description.Length > 8)
+            {
+                des = item.Description.Substring(0, 8) + "••••••";
+            }
+            else
+            {
+                des = item.Description;
+            }
+            <div class="border_animation">
+                <div class="border_top"></div>
+                <div class="border_right"></div>
+                <div class="border_bottom"></div>
+                <div class="border_left"></div>
+                <div>
+                    <a target="_blank" href="#">
+                        <img width="220" height="260" alt=@item.DishName src=@str>
+                    </a>
+                </div>
+                <div class="productInfo">菜系：@item.CookingClass<br />类别：@item.CookingType<br />菜名：@item.DishName<br />价格：@string.Format("{0:C2}", item.Price)<br />描述: @des <br /></div>
+                <div class="row" style="text-align:center"><div class="btn btn-primary"><a href=@editID>修改</a></div><div class="btn btn-danger" style="margin-left:20px"><a href=@delID>删除</a></div></div>
+            </div>
+        }
+    </div>
+ </fieldset>  
+
+
+    <script>
+        $(function () {
+            $(".border_animation").mouseenter(function () {
+                $(this).addClass("hover");
+            });
+            $(".border_animation").mouseleave(function () {
+                $(this).removeClass("hover");
+            });
+        });
+    </script>

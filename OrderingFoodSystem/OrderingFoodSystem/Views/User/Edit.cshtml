@@ -1,0 +1,164 @@
+﻿@model EntityManager.DiningUSER
+
+<div style="text-align:right;margin-top:50px;margin-right:50px;margin-bottom:30px">
+    <button class="layui-btn">@Html.ActionLink("返回", "Index")</button>
+</div>
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="layui-form layui-form-pane" style="display: block;position: fixed;_position: absolute;top: 50%;left: 50%;width: 666px;height:400px;margin-left: -333px;margin-top: -200px;z-index: 10001;box-shadow: 2px 2px 4px #A0A0A0, -2px -2px 4px #A0A0A0;background-color: #fff;">
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.HiddenFor(model => model.ID)
+
+        <div class="layui-form-item" style="text-align:center">
+            @Html.LabelFor(model => model.USER, htmlAttributes: new { @class = "layui-form-label" })
+            <div class="layui-input-inline">
+                @Html.EditorFor(model => model.USER, new { htmlAttributes = new { @class = "layui-input", @readOnly = "readOnly " } })
+                @Html.ValidationMessageFor(model => model.USER, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="layui-form-item">
+            @Html.LabelFor(model => model.NAME, htmlAttributes: new { @class = "layui-form-label" })
+            <div class="layui-input-inline">
+                @Html.EditorFor(model => model.NAME, new { htmlAttributes = new { @class = "layui-input" } })
+                @Html.ValidationMessageFor(model => model.NAME, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="layui-form-item">
+            @Html.LabelFor(model => model.PWD, htmlAttributes: new { @class = "layui-form-label" })
+            <div class="layui-input-inline">
+                @Html.EditorFor(model => model.PWD, new { htmlAttributes = new { @class = "layui-input" } })
+                @Html.ValidationMessageFor(model => model.PWD, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="layui-form-item">
+            @Html.LabelFor(model => model.GROUP, htmlAttributes: new { @class = "layui-form-label" })
+            <div class="layui-input-inline">
+                @Html.EditorFor(model => model.GROUP, new { htmlAttributes = new { @class = "layui-input" } })
+                @Html.ValidationMessageFor(model => model.GROUP, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="layui-form-item">
+            @Html.LabelFor(model => model.ISENABLE, htmlAttributes: new { @class = "layui-form-label" })
+            <div class="layui-input-inline">
+                @Html.EditorFor(model => model.ISENABLE, new { htmlAttributes = new { @class = "layui-input" } }) <span style="color:red">0:有效 1：无效</span>
+                @Html.ValidationMessageFor(model => model.ISENABLE, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+
+
+
+
+
+        @*<div class="form-group">
+            @Html.LabelFor(model => model.USER, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.USER, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.USER, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.NAME, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.NAME, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.NAME, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.PWD, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.PWD, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.PWD, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.GROUP, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.GROUP, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.GROUP, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.VIPLevel, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.VIPLevel, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.VIPLevel, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.ISADMIN, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.ISADMIN, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.ISADMIN, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.ISENABLE, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.ISENABLE, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.ISENABLE, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.CREATEUSER, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.CREATEUSER, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.CREATEUSER, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.CREATEDATE, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.CREATEDATE, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.CREATEDATE, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.MODIFYUSER, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.MODIFYUSER, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.MODIFYUSER, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.MODIFYDATE, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.MODIFYDATE, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.MODIFYDATE, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.ROWVERSION, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.ROWVERSION, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.ROWVERSION, "", new { @class = "text-danger" })
+            </div>
+        </div>*@
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="保存" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+

@@ -1,0 +1,151 @@
+﻿@model EntityManager.DiningDishName
+
+<script src="~/Scripts/jquery.validate.min.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+
+<div style="text-align:right;margin-top:50px;margin-right:50px;margin-bottom:30px">
+    <button class="layui-btn">@Html.ActionLink("返回", "Index")</button>
+</div>
+
+
+<fieldset class="layui-elem-field">
+    <legend>菜名 信息  修改 <span style="color:burlywood">@ViewBag.Msg</span></legend>
+    <div class="layui-field-box">
+
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+
+
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+
+            <div class="layui-form">
+                <div class="layui-form-item">
+                    @Html.LabelFor(model => model.CookingClass, htmlAttributes: new { @class = "layui-form-label" })
+                    <div class="layui-input-inline">
+                        <select name="cookingclass" id="cookingclass">
+                            <option value=@Model.CookingClass >@Model.CookingClass</option>
+                        </select>
+                        @Html.ValidationMessageFor(model => model.CookingClass, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="layui-form-item">
+                    @Html.LabelFor(model => model.CookingType, htmlAttributes: new { @class = "layui-form-label" })
+                    <div class="layui-input-inline">
+                        <select name="cookingtype" id="cookingtype">
+                            <option value=@Model.CookingType>@Model.CookingType</option>
+                        </select>
+                        @Html.ValidationMessageFor(model => model.CookingType, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="layui-form-item" style="text-align:center">
+                    @Html.LabelFor(model => model.DishName, htmlAttributes: new { @class = "layui-form-label" })
+                    <div class="layui-input-inline">
+                        @Html.EditorFor(model => model.DishName, new { htmlAttributes = new { @class = "layui-input" } })
+                        @Html.ValidationMessageFor(model => model.DishName, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="layui-form-item" style="text-align:center">
+                    @Html.LabelFor(model => model.DateType, htmlAttributes: new { @class = "layui-form-label" })
+                    <div class="layui-input-block" style="text-align:left">
+                        @Html.RadioButtonFor(model => model.DateType, 1, new { @id = "radio1", @name = "rdolstState" })白班;
+                        @Html.RadioButtonFor(model => model.DateType, 0, new { @id = "radio1", @name = "rdolstState" })夜班;
+                        @Html.ValidationMessageFor(model => model.DishName, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="layui-form-item" style="text-align:center">
+                    @Html.LabelFor(model => model.Img, htmlAttributes: new { @class = "layui-form-label" })
+                    <div class="layui-input-inline">
+                        @*@Html.EditorFor(model => model.Img, new { htmlAttributes = new { @class = "layui-input" } })
+                            @Html.ValidationMessageFor(model => model.Img, "", new { @class = "text-danger" })*@
+                        <span style="color:red">[只支持单个图片上传 220*260]</span><button type="button" class="layui-btn" id="test1">
+                            <i class="layui-icon">&#xe67c;</i>上传图片
+                        </button>
+                        <div id="imgId" style="margin-top:20px">
+                            <img src='/DishesImg/@Model.Img' width='220' height='260'></img>
+                            <input hidden='hidden' type=text Name='Img' id='Img' value=@Model.Img />
+                        </div>
+                    </div>
+                </div>
+
+                <div class="layui-form-item" style="text-align:center">
+                    @Html.LabelFor(model => model.Price, htmlAttributes: new { @class = "layui-form-label" })
+                    <div class="layui-input-inline">
+                        @Html.EditorFor(model => model.Price, new { htmlAttributes = new { @class = "layui-input" } })
+                        @Html.ValidationMessageFor(model => model.Price, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="layui-form-item layui-form-text">
+                    @Html.LabelFor(model => model.Description, htmlAttributes: new { @class = "layui-form-label" })
+                    <div class="layui-input-block">
+                        <textarea placeholder="请输入内容" class="layui-textarea" name="Description"></textarea>
+                    </div>
+                </div>
+
+                <div class="layui-form-item">
+                    <div class="layui-input-block">
+                        <input type="submit" value="立即提交" class="layui-btn" lay-filter="formSubmit" />
+                    </div>
+                </div>
+
+
+            </div>
+        }
+    </div>
+</fieldset>
+
+<script>
+    layui.use(['upload','form'], function () {
+        var upload = layui.upload,
+            form = layui.form;
+
+        var CookingClass = '';
+        //var CookingClass = '';
+        $.getJSON('/CookingClass/GetAllCookingClass', {}, function (data, status) {
+            if (status) {
+                $.each(data, function () {
+                    CookingClass += '<option value="'+ this.CookingClass + '">' + this.CookingClass + '</option>';
+                });
+                $('#cookingclass').append(CookingClass);
+                //重新渲染
+                layui.form.render('select');
+            }
+        });
+
+
+        var CookingType = '';
+        $.getJSON('/CookingType/GetAllCookingType', {}, function (data, status) {
+            if (status) {
+                $.each(data, function () {
+                    CookingType += '<option value="'+ this.CookingType + '">' + this.CookingType + '</option>';
+                });
+                $('#cookingtype').append(CookingType);
+                //重新渲染
+                layui.form.render('select');
+            }
+        });
+
+        //图片上传
+        var uploadInst = upload.render({
+            elem: '#test1' //绑定元素
+          , url: '/DishName/upload/' //上传接口
+          , acceptMime: 'image/*'
+          , done: function (res) {
+              console.log(res.msg);
+              $('#imgId').empty();
+              $('#imgId').append("<img src='../DishesImg/" + res.msg + "' width='220' height='260'></img><input hidden='hidden' type=text Name='Img' id='Img' value='" + res.msg + "' />");
+              //上传完毕回调
+          }
+          , error: function () {
+              //请求异常回调
+          }
+        });
+
+    });
+</script>

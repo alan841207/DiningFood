@@ -1,0 +1,36 @@
+﻿@model EntityManager.DiningCookingClass
+
+<div style="text-align:right;margin-top:50px;margin-right:50px;margin-bottom:30px">
+    <button class="layui-btn">@Html.ActionLink("返回", "Index")</button>
+</div>
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="layui-form layui-form-pane" style="display: block;position: fixed;_position: absolute;top: 50%;left: 50%;width: 666px;height:400px;margin-left: -333px;margin-top: -200px;z-index: 10001;background-color: #fff;">
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+        <div class="layui-form-item" style="text-align:center">
+            @Html.LabelFor(model => model.CookingClass, htmlAttributes: new { @class = "layui-form-label" })
+            <div class="layui-input-inline">
+                @Html.EditorFor(model => model.CookingClass, new { htmlAttributes = new { @class = "layui-input" } })
+                @Html.ValidationMessageFor(model => model.CookingClass, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+
+        @*<div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="保存" class="layui-btn" />
+            </div>
+        </div>*@
+
+        <div class="layui-form-item">
+            <div class="layui-input-block">
+                <input type="submit" value="立即提交" class="layui-btn" />
+            </div>
+        </div>
+
+    </div>
+}

@@ -1,0 +1,145 @@
+D:\Code\Person kpi System\KpiSystem\DataManager\bin\Release\DataManager.dll
+D:\Code\Person kpi System\KpiSystem\DataManager\bin\Release\DataManager.pdb
+D:\Code\Person kpi System\KpiSystem\DataManager\bin\Release\Common.dll
+D:\Code\Person kpi System\KpiSystem\DataManager\bin\Release\Dos.ORM.dll
+D:\Code\Person kpi System\KpiSystem\DataManager\bin\Release\Entity.dll
+D:\Code\Person kpi System\KpiSystem\DataManager\bin\Release\System.Web.Mvc.dll
+D:\Code\Person kpi System\KpiSystem\DataManager\bin\Release\System.Web.Razor.dll
+D:\Code\Person kpi System\KpiSystem\DataManager\bin\Release\System.Web.WebPages.Razor.dll
+D:\Code\Person kpi System\KpiSystem\DataManager\bin\Release\System.Web.WebPages.dll
+D:\Code\Person kpi System\KpiSystem\DataManager\bin\Release\Microsoft.Web.Infrastructure.dll
+D:\Code\Person kpi System\KpiSystem\DataManager\bin\Release\System.Web.WebPages.Deployment.dll
+D:\Code\Person kpi System\KpiSystem\DataManager\bin\Release\Common.pdb
+D:\Code\Person kpi System\KpiSystem\DataManager\bin\Release\Entity.pdb
+D:\Code\Person kpi System\KpiSystem\DataManager\bin\Release\Dos.ORM.xml
+D:\Code\Person kpi System\KpiSystem\DataManager\bin\Release\System.Web.Mvc.xml
+D:\Code\Person kpi System\KpiSystem\DataManager\bin\Release\System.Web.Razor.xml
+D:\Code\Person kpi System\KpiSystem\DataManager\bin\Release\System.Web.WebPages.Razor.xml
+D:\Code\Person kpi System\KpiSystem\DataManager\bin\Release\System.Web.WebPages.xml
+D:\Code\Person kpi System\KpiSystem\DataManager\bin\Release\Microsoft.Web.Infrastructure.xml
+D:\Code\Person kpi System\KpiSystem\DataManager\bin\Release\System.Web.WebPages.Deployment.xml
+D:\Code\Person kpi System\KpiSystem\DataManager\bin\Release\zh-Hans\System.Web.Mvc.resources.dll
+D:\Code\Person kpi System\KpiSystem\DataManager\bin\Release\zh-Hans\System.Web.Razor.resources.dll
+D:\Code\Person kpi System\KpiSystem\DataManager\bin\Release\zh-Hans\System.Web.WebPages.Razor.resources.dll
+D:\Code\Person kpi System\KpiSystem\DataManager\bin\Release\zh-Hans\System.Web.WebPages.resources.dll
+D:\Code\Person kpi System\KpiSystem\DataManager\bin\Release\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\Code\Person kpi System\KpiSystem\DataManager\obj\Release\DataManager.csprojResolveAssemblyReference.cache
+D:\Code\Person kpi System\KpiSystem\DataManager\obj\Release\DataManager.dll
+D:\Code\Person kpi System\KpiSystem\DataManager\obj\Release\DataManager.pdb
+D:\Code\Person kpi System\KpiSystem\DataManager\bin\Release\EPPlus.dll
+D:\Code\Person kpi System\KpiSystem\DataManager\bin\Release\EPPlus.xml
+D:\Person kpi System\KpiSystem\DataManager\bin\Release\DataManager.dll
+D:\Person kpi System\KpiSystem\DataManager\bin\Release\DataManager.pdb
+D:\Person kpi System\KpiSystem\DataManager\bin\Release\Common.dll
+D:\Person kpi System\KpiSystem\DataManager\bin\Release\Entity.dll
+D:\Person kpi System\KpiSystem\DataManager\bin\Release\EPPlus.dll
+D:\Person kpi System\KpiSystem\DataManager\bin\Release\System.Web.Razor.dll
+D:\Person kpi System\KpiSystem\DataManager\bin\Release\System.Web.WebPages.Razor.dll
+D:\Person kpi System\KpiSystem\DataManager\bin\Release\System.Web.WebPages.dll
+D:\Person kpi System\KpiSystem\DataManager\bin\Release\Microsoft.Web.Infrastructure.dll
+D:\Person kpi System\KpiSystem\DataManager\bin\Release\System.Web.WebPages.Deployment.dll
+D:\Person kpi System\KpiSystem\DataManager\bin\Release\Common.pdb
+D:\Person kpi System\KpiSystem\DataManager\bin\Release\Entity.pdb
+D:\Person kpi System\KpiSystem\DataManager\bin\Release\Dos.ORM.xml
+D:\Person kpi System\KpiSystem\DataManager\bin\Release\System.Web.Mvc.xml
+D:\Person kpi System\KpiSystem\DataManager\bin\Release\EPPlus.xml
+D:\Person kpi System\KpiSystem\DataManager\bin\Release\System.Web.Razor.xml
+D:\Person kpi System\KpiSystem\DataManager\bin\Release\System.Web.WebPages.Razor.xml
+D:\Person kpi System\KpiSystem\DataManager\bin\Release\System.Web.WebPages.xml
+D:\Person kpi System\KpiSystem\DataManager\bin\Release\Microsoft.Web.Infrastructure.xml
+D:\Person kpi System\KpiSystem\DataManager\bin\Release\System.Web.WebPages.Deployment.xml
+D:\Person kpi System\KpiSystem\DataManager\bin\Release\zh-Hans\System.Web.Mvc.resources.dll
+D:\Person kpi System\KpiSystem\DataManager\bin\Release\zh-Hans\System.Web.Razor.resources.dll
+D:\Person kpi System\KpiSystem\DataManager\bin\Release\zh-Hans\System.Web.WebPages.Razor.resources.dll
+D:\Person kpi System\KpiSystem\DataManager\bin\Release\zh-Hans\System.Web.WebPages.resources.dll
+D:\Person kpi System\KpiSystem\DataManager\bin\Release\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\Person kpi System\KpiSystem\DataManager\obj\Release\DataManager.csprojResolveAssemblyReference.cache
+D:\Person kpi System\KpiSystem\DataManager\obj\Release\DataManager.dll
+D:\Person kpi System\KpiSystem\DataManager\obj\Release\DataManager.pdb
+E:\KpiSystem\DataManager\bin\Release\DataManager.dll
+E:\KpiSystem\DataManager\bin\Release\DataManager.pdb
+E:\KpiSystem\DataManager\bin\Release\Common.dll
+E:\KpiSystem\DataManager\bin\Release\Dos.ORM.dll
+E:\KpiSystem\DataManager\bin\Release\Entity.dll
+E:\KpiSystem\DataManager\bin\Release\EPPlus.dll
+E:\KpiSystem\DataManager\bin\Release\System.Web.Razor.dll
+E:\KpiSystem\DataManager\bin\Release\System.Web.WebPages.Razor.dll
+E:\KpiSystem\DataManager\bin\Release\System.Web.WebPages.dll
+E:\KpiSystem\DataManager\bin\Release\Microsoft.Web.Infrastructure.dll
+E:\KpiSystem\DataManager\bin\Release\System.Web.WebPages.Deployment.dll
+E:\KpiSystem\DataManager\bin\Release\Common.pdb
+E:\KpiSystem\DataManager\bin\Release\Entity.pdb
+E:\KpiSystem\DataManager\bin\Release\Dos.ORM.xml
+E:\KpiSystem\DataManager\bin\Release\System.Web.Mvc.xml
+E:\KpiSystem\DataManager\bin\Release\EPPlus.xml
+E:\KpiSystem\DataManager\bin\Release\System.Web.Razor.xml
+E:\KpiSystem\DataManager\bin\Release\System.Web.WebPages.Razor.xml
+E:\KpiSystem\DataManager\bin\Release\System.Web.WebPages.xml
+E:\KpiSystem\DataManager\bin\Release\Microsoft.Web.Infrastructure.xml
+E:\KpiSystem\DataManager\bin\Release\System.Web.WebPages.Deployment.xml
+E:\KpiSystem\DataManager\bin\Release\zh-Hans\System.Web.Mvc.resources.dll
+E:\KpiSystem\DataManager\bin\Release\zh-Hans\System.Web.Razor.resources.dll
+E:\KpiSystem\DataManager\bin\Release\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\KpiSystem\DataManager\bin\Release\zh-Hans\System.Web.WebPages.resources.dll
+E:\KpiSystem\DataManager\bin\Release\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\KpiSystem\DataManager\obj\Release\DataManager.csprojResolveAssemblyReference.cache
+E:\KpiSystem\DataManager\obj\Release\DataManager.dll
+E:\KpiSystem\DataManager\obj\Release\DataManager.pdb
+E:\DicomViewWeb\DataManager\bin\Release\DataManager.dll
+E:\DicomViewWeb\DataManager\bin\Release\DataManager.pdb
+E:\DicomViewWeb\DataManager\bin\Release\Common.dll
+E:\DicomViewWeb\DataManager\bin\Release\Dos.ORM.dll
+E:\DicomViewWeb\DataManager\bin\Release\Entity.dll
+E:\DicomViewWeb\DataManager\bin\Release\EPPlus.dll
+E:\DicomViewWeb\DataManager\bin\Release\System.Web.Razor.dll
+E:\DicomViewWeb\DataManager\bin\Release\System.Web.WebPages.Razor.dll
+E:\DicomViewWeb\DataManager\bin\Release\System.Web.WebPages.dll
+E:\DicomViewWeb\DataManager\bin\Release\Microsoft.Web.Infrastructure.dll
+E:\DicomViewWeb\DataManager\bin\Release\System.Web.WebPages.Deployment.dll
+E:\DicomViewWeb\DataManager\bin\Release\Common.pdb
+E:\DicomViewWeb\DataManager\bin\Release\Entity.pdb
+E:\DicomViewWeb\DataManager\bin\Release\Dos.ORM.xml
+E:\DicomViewWeb\DataManager\bin\Release\System.Web.Mvc.xml
+E:\DicomViewWeb\DataManager\bin\Release\EPPlus.xml
+E:\DicomViewWeb\DataManager\bin\Release\System.Web.Razor.xml
+E:\DicomViewWeb\DataManager\bin\Release\System.Web.WebPages.Razor.xml
+E:\DicomViewWeb\DataManager\bin\Release\System.Web.WebPages.xml
+E:\DicomViewWeb\DataManager\bin\Release\Microsoft.Web.Infrastructure.xml
+E:\DicomViewWeb\DataManager\bin\Release\System.Web.WebPages.Deployment.xml
+E:\DicomViewWeb\DataManager\bin\Release\zh-Hans\System.Web.Mvc.resources.dll
+E:\DicomViewWeb\DataManager\bin\Release\zh-Hans\System.Web.Razor.resources.dll
+E:\DicomViewWeb\DataManager\bin\Release\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\DicomViewWeb\DataManager\bin\Release\zh-Hans\System.Web.WebPages.resources.dll
+E:\DicomViewWeb\DataManager\bin\Release\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\DicomViewWeb\DataManager\obj\Release\DataManager.csprojResolveAssemblyReference.cache
+E:\DicomViewWeb\DataManager\obj\Release\DataManager.dll
+E:\DicomViewWeb\DataManager\obj\Release\DataManager.pdb
+E:\app\app\OrderingFoodSystem\DataManager\bin\Release\DataManager.dll
+E:\app\app\OrderingFoodSystem\DataManager\bin\Release\DataManager.pdb
+E:\app\app\OrderingFoodSystem\DataManager\bin\Release\Common.dll
+E:\app\app\OrderingFoodSystem\DataManager\bin\Release\Dos.ORM.dll
+E:\app\app\OrderingFoodSystem\DataManager\bin\Release\Entity.dll
+E:\app\app\OrderingFoodSystem\DataManager\bin\Release\EPPlus.dll
+E:\app\app\OrderingFoodSystem\DataManager\bin\Release\System.Web.Razor.dll
+E:\app\app\OrderingFoodSystem\DataManager\bin\Release\System.Web.WebPages.Razor.dll
+E:\app\app\OrderingFoodSystem\DataManager\bin\Release\System.Web.WebPages.dll
+E:\app\app\OrderingFoodSystem\DataManager\bin\Release\Microsoft.Web.Infrastructure.dll
+E:\app\app\OrderingFoodSystem\DataManager\bin\Release\System.Web.WebPages.Deployment.dll
+E:\app\app\OrderingFoodSystem\DataManager\bin\Release\Common.pdb
+E:\app\app\OrderingFoodSystem\DataManager\bin\Release\Entity.pdb
+E:\app\app\OrderingFoodSystem\DataManager\bin\Release\Dos.ORM.xml
+E:\app\app\OrderingFoodSystem\DataManager\bin\Release\System.Web.Mvc.xml
+E:\app\app\OrderingFoodSystem\DataManager\bin\Release\EPPlus.xml
+E:\app\app\OrderingFoodSystem\DataManager\bin\Release\System.Web.Razor.xml
+E:\app\app\OrderingFoodSystem\DataManager\bin\Release\System.Web.WebPages.Razor.xml
+E:\app\app\OrderingFoodSystem\DataManager\bin\Release\System.Web.WebPages.xml
+E:\app\app\OrderingFoodSystem\DataManager\bin\Release\Microsoft.Web.Infrastructure.xml
+E:\app\app\OrderingFoodSystem\DataManager\bin\Release\System.Web.WebPages.Deployment.xml
+E:\app\app\OrderingFoodSystem\DataManager\bin\Release\zh-Hans\System.Web.Mvc.resources.dll
+E:\app\app\OrderingFoodSystem\DataManager\bin\Release\zh-Hans\System.Web.Razor.resources.dll
+E:\app\app\OrderingFoodSystem\DataManager\bin\Release\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\app\app\OrderingFoodSystem\DataManager\bin\Release\zh-Hans\System.Web.WebPages.resources.dll
+E:\app\app\OrderingFoodSystem\DataManager\bin\Release\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\app\app\OrderingFoodSystem\DataManager\obj\Release\DataManager.csprojResolveAssemblyReference.cache
+E:\app\app\OrderingFoodSystem\DataManager\obj\Release\DataManager.dll
+E:\app\app\OrderingFoodSystem\DataManager\obj\Release\DataManager.pdb

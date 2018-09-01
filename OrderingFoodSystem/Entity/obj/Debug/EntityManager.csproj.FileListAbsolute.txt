@@ -1,0 +1,56 @@
+D:\Code\Person kpi System\KpiSystem\Entity\bin\Debug\Entity.dll
+D:\Code\Person kpi System\KpiSystem\Entity\bin\Debug\Entity.pdb
+D:\Code\Person kpi System\KpiSystem\Entity\bin\Debug\Dos.ORM.dll
+D:\Code\Person kpi System\KpiSystem\Entity\bin\Debug\Dos.ORM.xml
+D:\Code\Person kpi System\KpiSystem\Entity\obj\Debug\EntityManager.csprojResolveAssemblyReference.cache
+D:\Code\Person kpi System\KpiSystem\Entity\obj\Debug\Entity.dll
+D:\Code\Person kpi System\KpiSystem\Entity\obj\Debug\Entity.pdb
+D:\Person kpi System\KpiSystem\Entity\bin\Debug\Entity.dll
+D:\Person kpi System\KpiSystem\Entity\bin\Debug\Entity.pdb
+D:\Person kpi System\KpiSystem\Entity\bin\Debug\Dos.ORM.xml
+D:\Person kpi System\KpiSystem\Entity\obj\Debug\EntityManager.csprojResolveAssemblyReference.cache
+D:\Person kpi System\KpiSystem\Entity\obj\Debug\Entity.dll
+D:\Person kpi System\KpiSystem\Entity\obj\Debug\Entity.pdb
+E:\KpiSystem\Entity\bin\Debug\Entity.dll
+E:\KpiSystem\Entity\bin\Debug\Entity.pdb
+E:\KpiSystem\Entity\bin\Debug\Dos.ORM.dll
+E:\KpiSystem\Entity\bin\Debug\Dos.ORM.xml
+E:\KpiSystem\Entity\obj\Debug\EntityManager.csprojResolveAssemblyReference.cache
+E:\KpiSystem\Entity\obj\Debug\Entity.dll
+E:\KpiSystem\Entity\obj\Debug\Entity.pdb
+E:\DicomViewWeb\Entity\bin\Debug\Entity.dll
+E:\DicomViewWeb\Entity\bin\Debug\Entity.pdb
+E:\DicomViewWeb\Entity\bin\Debug\Dos.ORM.xml
+E:\DicomViewWeb\Entity\obj\Debug\EntityManager.csprojResolveAssemblyReference.cache
+E:\DicomViewWeb\Entity\obj\Debug\Entity.dll
+E:\DicomViewWeb\Entity\obj\Debug\Entity.pdb
+E:\OrderingFoodSystem\OrderingFoodSystem\Entity\bin\Debug\Entity.dll
+E:\OrderingFoodSystem\OrderingFoodSystem\Entity\bin\Debug\Entity.pdb
+E:\OrderingFoodSystem\OrderingFoodSystem\Entity\obj\Debug\EntityManager.csprojResolveAssemblyReference.cache
+E:\OrderingFoodSystem\OrderingFoodSystem\Entity\obj\Debug\Entity.dll
+E:\OrderingFoodSystem\OrderingFoodSystem\Entity\obj\Debug\Entity.pdb
+C:\Users\Administrator\Desktop\OrderingFoodSystem\OrderingFoodSystem\OrderingFoodSystem\Entity\bin\Debug\Entity.dll
+C:\Users\Administrator\Desktop\OrderingFoodSystem\OrderingFoodSystem\OrderingFoodSystem\Entity\bin\Debug\Entity.pdb
+C:\Users\Administrator\Desktop\OrderingFoodSystem\OrderingFoodSystem\OrderingFoodSystem\Entity\obj\Debug\EntityManager.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\OrderingFoodSystem\OrderingFoodSystem\OrderingFoodSystem\Entity\obj\Debug\Entity.dll
+C:\Users\Administrator\Desktop\OrderingFoodSystem\OrderingFoodSystem\OrderingFoodSystem\Entity\obj\Debug\Entity.pdb
+E:\app\OrderingFoodSystem\Entity\bin\Debug\Entity.dll
+E:\app\OrderingFoodSystem\Entity\bin\Debug\Entity.pdb
+E:\app\OrderingFoodSystem\Entity\bin\Debug\Dos.ORM.dll
+E:\app\OrderingFoodSystem\Entity\bin\Debug\Dos.ORM.xml
+E:\app\OrderingFoodSystem\Entity\obj\Debug\EntityManager.csprojResolveAssemblyReference.cache
+E:\app\OrderingFoodSystem\Entity\obj\Debug\Entity.dll
+E:\app\OrderingFoodSystem\Entity\obj\Debug\Entity.pdb
+C:\Users\Administrator\Desktop\OrderingFoodSystem\Entity\bin\Debug\Entity.dll
+C:\Users\Administrator\Desktop\OrderingFoodSystem\Entity\bin\Debug\Entity.pdb
+C:\Users\Administrator\Desktop\OrderingFoodSystem\Entity\bin\Debug\Dos.ORM.xml
+C:\Users\Administrator\Desktop\OrderingFoodSystem\Entity\obj\Debug\EntityManager.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\OrderingFoodSystem\Entity\obj\Debug\Entity.dll
+C:\Users\Administrator\Desktop\OrderingFoodSystem\Entity\obj\Debug\Entity.pdb
+E:\app\app\OrderingFoodSystem\Entity\bin\Debug\Entity.dll
+E:\app\app\OrderingFoodSystem\Entity\bin\Debug\Entity.pdb
+E:\app\app\OrderingFoodSystem\Entity\bin\Debug\Dos.ORM.dll
+E:\app\app\OrderingFoodSystem\Entity\bin\Debug\Dos.ORM.xml
+E:\app\app\OrderingFoodSystem\Entity\obj\Debug\EntityManager.csprojResolveAssemblyReference.cache
+E:\app\app\OrderingFoodSystem\Entity\obj\Debug\Entity.dll
+E:\app\app\OrderingFoodSystem\Entity\obj\Debug\Entity.pdb

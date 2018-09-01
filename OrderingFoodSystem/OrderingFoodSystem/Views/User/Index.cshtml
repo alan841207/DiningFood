@@ -1,0 +1,55 @@
+﻿@model IEnumerable<EntityManager.DiningUSER>
+
+<div style="text-align:right;margin-top:50px;margin-right:50px;margin-bottom:30px">   
+    <button class="layui-btn">@Html.ActionLink("创建用户", "Create")<span class="layui-badge layui-bg-gray">New</span></button>
+</div>
+
+<table class="layui-table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.USER)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NAME)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VIPLevel)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ISENABLE)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CREATEDATE)
+            </th>
+            <th>操作</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.USER)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NAME)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.VIPLevel)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ISENABLE)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CREATEDATE)
+                </td>
+                <td>
+                    @Html.ActionLink("编辑", "Edit", new { id = item.ID }) |
+                    @*@Html.ActionLink("Details", "Details", new { id = item.ID }) |*@
+                    @Html.ActionLink("删除", "Delete", new { id = item.ID })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,143 @@
+D:\Code\Person kpi System\KpiSystem\DataManager\bin\Debug\DataManager.dll
+D:\Code\Person kpi System\KpiSystem\DataManager\bin\Debug\DataManager.pdb
+D:\Code\Person kpi System\KpiSystem\DataManager\bin\Debug\Common.dll
+D:\Code\Person kpi System\KpiSystem\DataManager\bin\Debug\Dos.ORM.dll
+D:\Code\Person kpi System\KpiSystem\DataManager\bin\Debug\Entity.dll
+D:\Code\Person kpi System\KpiSystem\DataManager\bin\Debug\System.Web.Mvc.dll
+D:\Code\Person kpi System\KpiSystem\DataManager\bin\Debug\System.Web.Razor.dll
+D:\Code\Person kpi System\KpiSystem\DataManager\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Code\Person kpi System\KpiSystem\DataManager\bin\Debug\System.Web.WebPages.dll
+D:\Code\Person kpi System\KpiSystem\DataManager\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Code\Person kpi System\KpiSystem\DataManager\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Code\Person kpi System\KpiSystem\DataManager\bin\Debug\Common.pdb
+D:\Code\Person kpi System\KpiSystem\DataManager\bin\Debug\Entity.pdb
+D:\Code\Person kpi System\KpiSystem\DataManager\bin\Debug\Dos.ORM.xml
+D:\Code\Person kpi System\KpiSystem\DataManager\bin\Debug\System.Web.Mvc.xml
+D:\Code\Person kpi System\KpiSystem\DataManager\bin\Debug\System.Web.Razor.xml
+D:\Code\Person kpi System\KpiSystem\DataManager\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Code\Person kpi System\KpiSystem\DataManager\bin\Debug\System.Web.WebPages.xml
+D:\Code\Person kpi System\KpiSystem\DataManager\bin\Debug\Microsoft.Web.Infrastructure.xml
+D:\Code\Person kpi System\KpiSystem\DataManager\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Code\Person kpi System\KpiSystem\DataManager\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll
+D:\Code\Person kpi System\KpiSystem\DataManager\bin\Debug\zh-Hans\System.Web.Razor.resources.dll
+D:\Code\Person kpi System\KpiSystem\DataManager\bin\Debug\zh-Hans\System.Web.WebPages.Razor.resources.dll
+D:\Code\Person kpi System\KpiSystem\DataManager\bin\Debug\zh-Hans\System.Web.WebPages.resources.dll
+D:\Code\Person kpi System\KpiSystem\DataManager\bin\Debug\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\Code\Person kpi System\KpiSystem\DataManager\obj\Debug\DataManager.csprojResolveAssemblyReference.cache
+D:\Code\Person kpi System\KpiSystem\DataManager\obj\Debug\DataManager.dll
+D:\Code\Person kpi System\KpiSystem\DataManager\obj\Debug\DataManager.pdb
+D:\Code\Person kpi System\KpiSystem\DataManager\bin\Debug\EPPlus.dll
+D:\Code\Person kpi System\KpiSystem\DataManager\bin\Debug\EPPlus.xml
+D:\Person kpi System\KpiSystem\DataManager\bin\Debug\DataManager.dll
+D:\Person kpi System\KpiSystem\DataManager\bin\Debug\DataManager.pdb
+D:\Person kpi System\KpiSystem\DataManager\bin\Debug\Common.dll
+D:\Person kpi System\KpiSystem\DataManager\bin\Debug\Entity.dll
+D:\Person kpi System\KpiSystem\DataManager\bin\Debug\EPPlus.dll
+D:\Person kpi System\KpiSystem\DataManager\bin\Debug\System.Web.Razor.dll
+D:\Person kpi System\KpiSystem\DataManager\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Person kpi System\KpiSystem\DataManager\bin\Debug\System.Web.WebPages.dll
+D:\Person kpi System\KpiSystem\DataManager\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Person kpi System\KpiSystem\DataManager\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Person kpi System\KpiSystem\DataManager\bin\Debug\Common.pdb
+D:\Person kpi System\KpiSystem\DataManager\bin\Debug\Entity.pdb
+D:\Person kpi System\KpiSystem\DataManager\bin\Debug\Dos.ORM.xml
+D:\Person kpi System\KpiSystem\DataManager\bin\Debug\System.Web.Mvc.xml
+D:\Person kpi System\KpiSystem\DataManager\bin\Debug\EPPlus.xml
+D:\Person kpi System\KpiSystem\DataManager\bin\Debug\System.Web.Razor.xml
+D:\Person kpi System\KpiSystem\DataManager\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Person kpi System\KpiSystem\DataManager\bin\Debug\System.Web.WebPages.xml
+D:\Person kpi System\KpiSystem\DataManager\bin\Debug\Microsoft.Web.Infrastructure.xml
+D:\Person kpi System\KpiSystem\DataManager\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Person kpi System\KpiSystem\DataManager\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll
+D:\Person kpi System\KpiSystem\DataManager\bin\Debug\zh-Hans\System.Web.Razor.resources.dll
+D:\Person kpi System\KpiSystem\DataManager\bin\Debug\zh-Hans\System.Web.WebPages.Razor.resources.dll
+D:\Person kpi System\KpiSystem\DataManager\bin\Debug\zh-Hans\System.Web.WebPages.resources.dll
+D:\Person kpi System\KpiSystem\DataManager\bin\Debug\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\Person kpi System\KpiSystem\DataManager\obj\Debug\DataManager.csprojResolveAssemblyReference.cache
+D:\Person kpi System\KpiSystem\DataManager\obj\Debug\DataManager.dll
+D:\Person kpi System\KpiSystem\DataManager\obj\Debug\DataManager.pdb
+E:\KpiSystem\DataManager\bin\Debug\DataManager.dll
+E:\KpiSystem\DataManager\bin\Debug\DataManager.pdb
+E:\KpiSystem\DataManager\bin\Debug\Common.dll
+E:\KpiSystem\DataManager\bin\Debug\Dos.ORM.dll
+E:\KpiSystem\DataManager\bin\Debug\Entity.dll
+E:\KpiSystem\DataManager\bin\Debug\EPPlus.dll
+E:\KpiSystem\DataManager\bin\Debug\Common.pdb
+E:\KpiSystem\DataManager\bin\Debug\Entity.pdb
+E:\KpiSystem\DataManager\bin\Debug\Dos.ORM.xml
+E:\KpiSystem\DataManager\bin\Debug\EPPlus.xml
+E:\KpiSystem\DataManager\obj\Debug\DataManager.csprojResolveAssemblyReference.cache
+E:\KpiSystem\DataManager\obj\Debug\DataManager.dll
+E:\KpiSystem\DataManager\obj\Debug\DataManager.pdb
+E:\DicomViewWeb\DataManager\bin\Debug\DataManager.dll
+E:\DicomViewWeb\DataManager\bin\Debug\DataManager.pdb
+E:\DicomViewWeb\DataManager\bin\Debug\Common.dll
+E:\DicomViewWeb\DataManager\bin\Debug\Entity.dll
+E:\DicomViewWeb\DataManager\bin\Debug\EPPlus.dll
+E:\DicomViewWeb\DataManager\bin\Debug\Common.pdb
+E:\DicomViewWeb\DataManager\bin\Debug\Entity.pdb
+E:\DicomViewWeb\DataManager\bin\Debug\Dos.ORM.xml
+E:\DicomViewWeb\DataManager\bin\Debug\EPPlus.xml
+E:\DicomViewWeb\DataManager\obj\Debug\DataManager.csprojResolveAssemblyReference.cache
+E:\DicomViewWeb\DataManager\obj\Debug\DataManager.dll
+E:\DicomViewWeb\DataManager\obj\Debug\DataManager.pdb
+E:\OrderingFoodSystem\OrderingFoodSystem\DataManager\bin\Debug\DataManager.dll
+E:\OrderingFoodSystem\OrderingFoodSystem\DataManager\bin\Debug\DataManager.pdb
+E:\OrderingFoodSystem\OrderingFoodSystem\DataManager\bin\Debug\Common.dll
+E:\OrderingFoodSystem\OrderingFoodSystem\DataManager\bin\Debug\Entity.dll
+E:\OrderingFoodSystem\OrderingFoodSystem\DataManager\bin\Debug\EPPlus.dll
+E:\OrderingFoodSystem\OrderingFoodSystem\DataManager\bin\Debug\Common.pdb
+E:\OrderingFoodSystem\OrderingFoodSystem\DataManager\bin\Debug\Entity.pdb
+E:\OrderingFoodSystem\OrderingFoodSystem\DataManager\bin\Debug\EPPlus.xml
+E:\OrderingFoodSystem\OrderingFoodSystem\DataManager\obj\Debug\DataManager.csprojResolveAssemblyReference.cache
+E:\OrderingFoodSystem\OrderingFoodSystem\DataManager\obj\Debug\DataManager.dll
+E:\OrderingFoodSystem\OrderingFoodSystem\DataManager\obj\Debug\DataManager.pdb
+C:\Users\Administrator\Desktop\OrderingFoodSystem\OrderingFoodSystem\OrderingFoodSystem\DataManager\bin\Debug\DataManager.dll
+C:\Users\Administrator\Desktop\OrderingFoodSystem\OrderingFoodSystem\OrderingFoodSystem\DataManager\bin\Debug\DataManager.pdb
+C:\Users\Administrator\Desktop\OrderingFoodSystem\OrderingFoodSystem\OrderingFoodSystem\DataManager\bin\Debug\Common.dll
+C:\Users\Administrator\Desktop\OrderingFoodSystem\OrderingFoodSystem\OrderingFoodSystem\DataManager\bin\Debug\Entity.dll
+C:\Users\Administrator\Desktop\OrderingFoodSystem\OrderingFoodSystem\OrderingFoodSystem\DataManager\bin\Debug\EPPlus.dll
+C:\Users\Administrator\Desktop\OrderingFoodSystem\OrderingFoodSystem\OrderingFoodSystem\DataManager\bin\Debug\Common.pdb
+C:\Users\Administrator\Desktop\OrderingFoodSystem\OrderingFoodSystem\OrderingFoodSystem\DataManager\bin\Debug\Entity.pdb
+C:\Users\Administrator\Desktop\OrderingFoodSystem\OrderingFoodSystem\OrderingFoodSystem\DataManager\bin\Debug\EPPlus.xml
+C:\Users\Administrator\Desktop\OrderingFoodSystem\OrderingFoodSystem\OrderingFoodSystem\DataManager\obj\Debug\DataManager.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\OrderingFoodSystem\OrderingFoodSystem\OrderingFoodSystem\DataManager\obj\Debug\DataManager.dll
+C:\Users\Administrator\Desktop\OrderingFoodSystem\OrderingFoodSystem\OrderingFoodSystem\DataManager\obj\Debug\DataManager.pdb
+E:\app\OrderingFoodSystem\DataManager\bin\Debug\DataManager.dll
+E:\app\OrderingFoodSystem\DataManager\bin\Debug\DataManager.pdb
+E:\app\OrderingFoodSystem\DataManager\bin\Debug\Common.dll
+E:\app\OrderingFoodSystem\DataManager\bin\Debug\Dos.ORM.dll
+E:\app\OrderingFoodSystem\DataManager\bin\Debug\Entity.dll
+E:\app\OrderingFoodSystem\DataManager\bin\Debug\EPPlus.dll
+E:\app\OrderingFoodSystem\DataManager\bin\Debug\Common.pdb
+E:\app\OrderingFoodSystem\DataManager\bin\Debug\Entity.pdb
+E:\app\OrderingFoodSystem\DataManager\bin\Debug\Dos.ORM.xml
+E:\app\OrderingFoodSystem\DataManager\bin\Debug\EPPlus.xml
+E:\app\OrderingFoodSystem\DataManager\obj\Debug\DataManager.csprojResolveAssemblyReference.cache
+E:\app\OrderingFoodSystem\DataManager\obj\Debug\DataManager.dll
+E:\app\OrderingFoodSystem\DataManager\obj\Debug\DataManager.pdb
+C:\Users\Administrator\Desktop\OrderingFoodSystem\DataManager\bin\Debug\DataManager.dll
+C:\Users\Administrator\Desktop\OrderingFoodSystem\DataManager\bin\Debug\DataManager.pdb
+C:\Users\Administrator\Desktop\OrderingFoodSystem\DataManager\bin\Debug\Common.dll
+C:\Users\Administrator\Desktop\OrderingFoodSystem\DataManager\bin\Debug\Entity.dll
+C:\Users\Administrator\Desktop\OrderingFoodSystem\DataManager\bin\Debug\EPPlus.dll
+C:\Users\Administrator\Desktop\OrderingFoodSystem\DataManager\bin\Debug\Common.pdb
+C:\Users\Administrator\Desktop\OrderingFoodSystem\DataManager\bin\Debug\Entity.pdb
+C:\Users\Administrator\Desktop\OrderingFoodSystem\DataManager\bin\Debug\Dos.ORM.xml
+C:\Users\Administrator\Desktop\OrderingFoodSystem\DataManager\bin\Debug\EPPlus.xml
+C:\Users\Administrator\Desktop\OrderingFoodSystem\DataManager\obj\Debug\DataManager.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\OrderingFoodSystem\DataManager\obj\Debug\DataManager.dll
+C:\Users\Administrator\Desktop\OrderingFoodSystem\DataManager\obj\Debug\DataManager.pdb
+E:\app\app\OrderingFoodSystem\DataManager\bin\Debug\DataManager.dll
+E:\app\app\OrderingFoodSystem\DataManager\bin\Debug\DataManager.pdb
+E:\app\app\OrderingFoodSystem\DataManager\bin\Debug\Common.dll
+E:\app\app\OrderingFoodSystem\DataManager\bin\Debug\Dos.ORM.dll
+E:\app\app\OrderingFoodSystem\DataManager\bin\Debug\Entity.dll
+E:\app\app\OrderingFoodSystem\DataManager\bin\Debug\EPPlus.dll
+E:\app\app\OrderingFoodSystem\DataManager\bin\Debug\Common.pdb
+E:\app\app\OrderingFoodSystem\DataManager\bin\Debug\Entity.pdb
+E:\app\app\OrderingFoodSystem\DataManager\bin\Debug\Dos.ORM.xml
+E:\app\app\OrderingFoodSystem\DataManager\bin\Debug\EPPlus.xml
+E:\app\app\OrderingFoodSystem\DataManager\obj\Debug\DataManager.csprojResolveAssemblyReference.cache
+E:\app\app\OrderingFoodSystem\DataManager\obj\Debug\DataManager.dll
+E:\app\app\OrderingFoodSystem\DataManager\obj\Debug\DataManager.pdb

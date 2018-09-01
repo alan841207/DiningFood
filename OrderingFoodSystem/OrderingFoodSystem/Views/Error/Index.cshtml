@@ -1,0 +1,84 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>建议升级浏览器软件</title>
+    <style type="text/css">
+        body {
+            background-color: #F7F7F7;
+            font-family: 微软雅黑,宋体,Arial,Helvetica,Verdana,sans-serif;
+        }
+
+        .not-support-browser {
+            border-radius: 5px;
+            -moz-border-radius: 5px;
+            -webkit-border-radius: 5px;
+            width: 650px;
+            height: 400px;
+            margin: 100px auto;
+            padding: 0px;
+        }
+
+        .Learun-logo {
+            background-color: #4A5B79;
+            color: #FFFFFF;
+            font-size: 18px;
+            font-weight: bold;
+            height: 50px;
+            line-height: 50px;
+        }
+
+        .not-support-browser-contant {
+            color: #666666;
+            font-size: 18px;
+            margin: 35px 25px;
+            text-align: center;
+        }
+
+
+            .not-support-browser-contant ul {
+                display: inline-block;
+                list-style: none outside none;
+                margin: 35px 80px;
+                padding: 0px;
+            }
+
+                .not-support-browser-contant ul li {
+                    float: left;
+                    margin-left: 10px;
+                }
+
+                    .not-support-browser-contant ul li a {
+                        text-decoration: none;
+                    }
+
+                    .not-support-browser-contant ul li img {
+                        width: 64px;
+                        height: 64px;
+                    }
+    </style>
+
+    <script src="@Url.Content("~/Scripts/jquery-1.8.1.min.js")" type="text/javascript"></script>
+
+    <script type="text/javascript">
+        $(function(){
+            window.setTimeout(function () { location.href = "http://localhost:10206/Login/Index"; }, 5000);
+        });
+    </script>
+
+</head>
+<body>
+    <!-- 内容区 -->
+    <div class="not-support-browser">
+        <div class="not-support-browser-contant">
+            <h2>系统5秒钟后会自动返回到系统登录界面!!!</h2>
+            <img border="0" src="../../Images/404.png" />
+        </div>
+    </div>
+</body>
+</html>
